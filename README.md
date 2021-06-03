@@ -1,5 +1,2 @@
-
-
-=======
-# F Cash Scan page 
+# FCash
 
