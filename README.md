@@ -8,4 +8,3 @@ expo init fcash
 
 ## Technology: React Native 
 
-==================================
