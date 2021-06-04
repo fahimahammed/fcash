@@ -6,4 +6,6 @@ npm install --global expo-cli
 
 expo init fcash
 
-## Technology: React Native
+## Technology: React Native 
+
+==================================
