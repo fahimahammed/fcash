@@ -242,7 +242,7 @@ const SignUp = ({ navigation }) => {
                 >
                     <Text style={{ color: COLORS.primary, ...FONTS.h3 }}>Continue</Text>
                 </TouchableOpacity>
-                <Text style={{ color: COLORS.white, paddingTop: 20, textAlign: 'center'}}>Developed by Fahim Ahammed</Text>
+                {/* <Text style={{ color: COLORS.white, paddingTop: 20, textAlign: 'center'}}>Developed by Fahim Ahammed</Text> */}
             </View>
         )
     }
@@ -285,7 +285,7 @@ const SignUp = ({ navigation }) => {
                             style={{
                                 height: 400,
                                 width: SIZES.width * 0.8,
-                                backgroundColor: COLORS.primary,
+                                backgroundColor: COLORS.white,
                                 borderRadius: SIZES.radius
                             }}
                         >
